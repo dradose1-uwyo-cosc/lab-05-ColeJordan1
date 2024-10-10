@@ -3,7 +3,7 @@
 # Submission Date 10/10/24
 # Lab 05 
 # Lab Section: 12
-# Sources, people worked with, help given to: Peter Martinez and Chauncy Hendon
+# Sources, people worked with, help given to: Peter Martinez and Chauncy Hendon, Taylor Gili
 # your
 # comments
 # here
